@@ -1,0 +1,15 @@
+#fejes{
+  background: #212529;
+  color: #F8F9FA;
+}
+ul {
+  display: flex;
+  gap: 30px;
+  color: #F8F9FA;
+  list-style: none;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #fff;
+}
